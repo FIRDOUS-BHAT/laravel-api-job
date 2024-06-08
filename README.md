@@ -2,7 +2,11 @@
 
 ## Setup
 
-1. Clone the repository
+1. Clone the Repository
+
+    ```bash
+    git clone https://github.com/FIRDOUS-BHAT/laravel-api-job.git
+    cd laravel-api-job
 2. Run `composer install`
 3. Copy `.env.example` to `.env` and configure your environment variables
 4. Run `php artisan key:generate`
